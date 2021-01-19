@@ -7,3 +7,4 @@
 5. Wait for delivery
 6. Greet delivery driver
 7. See step 4b if needed
+8. Serve pizza to family and enjoy
